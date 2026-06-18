@@ -6,7 +6,7 @@
 
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ayushgupta75.ayushgupta75&style=flat-square&color=6e40c9)](https://github.com/ayushgupta75)
 [![GitHub followers](https://img.shields.io/github/followers/ayushgupta75?style=flat-square&color=6e40c9&labelColor=1a1a2e)](https://github.com/ayushgupta75?tab=followers)
-[![Email](https://img.shields.io/badge/Email-ayushguptakonto%40gmail.com-6e40c9?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushguptakonto@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ayushguptamtc%40gmail.com-6e40c9?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushguptamtc@gmail.com)
 
 </div>
 
